@@ -1,0 +1,2 @@
+To get to root user : sudo su - 
+Need this to install stuff 
